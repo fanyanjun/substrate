@@ -4,13 +4,14 @@
   <img src="/docs/media/sub.gif">
 </p>
 
+add pr 2020-8-8
 
 Substrate is a next-generation framework for blockchain innovation 🚀.
 
 ## Trying it out
 
-Simply go to [substrate.dev](https://substrate.dev) and follow the 
-[installation](https://substrate.dev/docs/en/knowledgebase/getting-started/) instructions. You can 
+Simply go to [substrate.dev](https://substrate.dev) and follow the
+[installation](https://substrate.dev/docs/en/knowledgebase/getting-started/) instructions. You can
 also try out one of the [tutorials](https://substrate.dev/en/tutorials).
 
 ## Contributions & Code of Conduct
